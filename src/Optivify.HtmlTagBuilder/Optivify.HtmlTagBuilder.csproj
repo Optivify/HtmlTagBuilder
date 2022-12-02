@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+		<PackageOutputPath>..\..\dist</PackageOutputPath>
+		<Description>A helper for building HTML tag.</Description>
+		<PackageTags>html tag builder helper</PackageTags>
+		<Title>$(AssemblyName)</Title>
+		<Authors>Optivify</Authors>
+		<PackageProjectUrl>https://github.com/Optivify/HtmlTagBuilder</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/Optivify/HtmlTagBuilder</RepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	</PropertyGroup>
+
+</Project>
